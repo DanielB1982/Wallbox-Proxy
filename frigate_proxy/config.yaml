@@ -1,6 +1,6 @@
 name: Wallbox Proxy
 version: "1.0"
-panel_icon: "mdi:cctv"
+panel_icon: "mdi:ev-station"
 panel_title: Wallbox
 slug: wallbox-proxy
 description: Proxy addon for Wallbox
